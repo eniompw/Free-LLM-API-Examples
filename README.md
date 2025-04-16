@@ -6,9 +6,14 @@ A collection of examples and resources for accessing free and alternative LLM AP
 
 This repository provides examples of how to interact with various Large Language Model APIs that are either free to use (with certain limitations) or provide alternatives to the official OpenAI services. All of these APIs follow the OpenAI API format, making them easy to integrate into existing applications.
 
+## Requirements
+
+- Python 3.x
+- `requests` library (install with `pip install requests`)
+
 ## API Endpoints
 
-The file [api-urls.md](api-urls.md) contains a curated list of API endpoints from various providers including:
+The file [free-llm-api-endpoints.md.md](free-llm-api-endpoints.md.md) contains a curated list of API endpoints from various providers including:
 
 - OpenRouter
 - Chutes
@@ -42,6 +47,10 @@ else:
     print("Error:", response.status_code, response.text)
 ```
 
+### Additional Example
+
+The [llm_api_example.py](llm_api_example.py) file provides another example of interacting with a compatible LLM API. See the script for details.
+
 ## Getting Started
 
 1. Clone this repository:
@@ -59,16 +68,6 @@ else:
    ```bash
    python rest.py
    ```
-
-## Contributing
-
-Contributions are welcome! If you know of other free or alternative LLM API endpoints, please feel free to add them to the list or submit examples for usage with different programming languages.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -am 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## License
 
