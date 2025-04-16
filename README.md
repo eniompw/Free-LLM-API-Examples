@@ -13,7 +13,7 @@ This repository provides examples of how to interact with various Large Language
 
 ## API Endpoints
 
-The file [free-llm-api-endpoints.md.md](free-llm-api-endpoints.md.md) contains a curated list of API endpoints from various providers including:
+The file [free-llm-api-endpoints.md](free-llm-api-endpoints.md) contains a curated list of API endpoints from various providers including:
 
 - OpenRouter
 - Chutes
