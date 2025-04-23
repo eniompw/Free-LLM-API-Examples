@@ -22,6 +22,7 @@ The file [free-llm-api-endpoints.md](free-llm-api-endpoints.md) contains a curat
 - Mistral AI
 - NVIDIA
 - SambaNova
+- [Tavily](https://tavily.com) (Free Search API: 1,000 API credits/month, no credit card required)
 
 Each listing includes the endpoint URL and brief notes about the service.
 
