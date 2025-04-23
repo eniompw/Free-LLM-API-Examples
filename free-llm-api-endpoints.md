@@ -15,3 +15,7 @@ This document lists various API endpoints that provide chat completion functiona
 ## Usage
 
 These endpoints generally follow the OpenAI API format. Use with appropriate authentication as required by each provider.
+
+## More API Resources
+
+For a more comprehensive and frequently updated list of free LLM API endpoints and resources, see: [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
