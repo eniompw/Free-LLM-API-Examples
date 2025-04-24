@@ -9,12 +9,7 @@ This repository provides examples of how to interact with various Large Language
 - [Requirements](#requirements)
 - [Provider Integrations](#provider-integrations)
 - [Usage](#usage)
-- [Example Usage](#example-usage)
 - [Usage Tips](#usage-tips)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [Reporting Issues](#reporting-issues)
-- [Code of Conduct](#code-of-conduct)
 - [Disclaimer](#disclaimer)
 
 
